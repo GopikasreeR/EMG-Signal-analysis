@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated output figures
+results/*.png
+!results/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
