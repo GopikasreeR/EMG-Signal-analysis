@@ -29,7 +29,6 @@ Electronics Engineering (SENSE), VIT Chennai.
 - [Future Work](#future-work)
 - [References](#references)
 - [Authors](#authors)
-- [License](#license)
 
 ---
 
@@ -93,10 +92,9 @@ emg-signal-analysis/
 │   └── emg_analysis.py      # Full pipeline, organized into reusable functions
 ├── docs/
 │   └── abstract.md          # Project abstract
-├── results/                 # Generated plots land here (git-ignored by default)
+├── results/                 # Generated plots 
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
@@ -249,6 +247,3 @@ fatigue, tremor/spasticity indicators, neuromuscular disease patterns, etc.).
 
 School of Electronics Engineering (SENSE), VIT Chennai — BECE202L Signals and Systems
 
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
